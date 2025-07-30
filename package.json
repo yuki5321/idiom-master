@@ -1,5 +1,6 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "idiom-master",
+  "description": "A simple web application for learning idioms.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
