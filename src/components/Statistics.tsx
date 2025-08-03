@@ -10,10 +10,26 @@ interface StatisticsProps {
 export const Statistics: React.FC<StatisticsProps> = ({ idioms }) => {
   const [stats, setStats] = useState<LearningStats[]>([]);
   const [showResetConfirm, setShowResetConfirm] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const learningStats = getLearningStats(idioms);
-    setStats(learningStats);
+    const fetchStats = async () => {
+      try {
+        setLoading(true);
+        setError(null);
+        const learningStats = await getLearningStats(idioms);
+        setStats(learningStats);
+      } catch (error) {
+        console.error('Error fetching learning stats:', error);
+        setError('統計データの取得中にエラーが発生しました。');
+        setStats([]);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchStats();
   }, [idioms]);
 
   const totalKnown = stats.filter(s => s.status === 'known').length;
@@ -27,17 +43,76 @@ export const Statistics: React.FC<StatisticsProps> = ({ idioms }) => {
     exportStatsToCSV(stats);
   };
 
-  const handleReset = () => {
+  const handleReset = async () => {
     if (showResetConfirm) {
-      resetLearningData();
-      setShowResetConfirm(false);
-      // Refresh stats
-      const learningStats = getLearningStats(idioms);
-      setStats(learningStats);
+      try {
+        await resetLearningData();
+        setShowResetConfirm(false);
+        // Refresh stats
+        const learningStats = await getLearningStats(idioms);
+        setStats(learningStats);
+      } catch (error) {
+        console.error('Error resetting learning data:', error);
+      }
     } else {
       setShowResetConfirm(true);
     }
   };
+
+  if (loading) {
+    return (
+      <div className="max-w-md mx-auto px-4 py-6">
+        <div className="bg-white rounded-xl shadow-lg p-6 mb-6">
+          <div className="flex items-center justify-center mb-6">
+            <BarChart3 className="w-6 h-6 text-blue-600 mr-2" />
+            <h2 className="text-xl font-bold text-gray-900">学習統計</h2>
+          </div>
+          <div className="flex items-center justify-center py-8">
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
+            <span className="ml-3 text-gray-600">統計を読み込み中...</span>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-md mx-auto px-4 py-6">
+        <div className="bg-white rounded-xl shadow-lg p-6 mb-6">
+          <div className="flex items-center justify-center mb-6">
+            <BarChart3 className="w-6 h-6 text-blue-600 mr-2" />
+            <h2 className="text-xl font-bold text-gray-900">学習統計</h2>
+          </div>
+          <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-center">
+            <p className="text-red-700 mb-3">{error}</p>
+            <button
+              onClick={() => {
+                setError(null);
+                const fetchStats = async () => {
+                  try {
+                    setLoading(true);
+                    const learningStats = await getLearningStats(idioms);
+                    setStats(learningStats);
+                  } catch (error) {
+                    console.error('Error fetching learning stats:', error);
+                    setError('統計データの取得中にエラーが発生しました。');
+                    setStats([]);
+                  } finally {
+                    setLoading(false);
+                  }
+                };
+                fetchStats();
+              }}
+              className="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-200"
+            >
+              再試行
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="max-w-md mx-auto px-4 py-6">
