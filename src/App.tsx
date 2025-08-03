@@ -2,6 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { StudyMode } from './components/StudyMode';
 import { QuizMode } from './components/QuizMode';
+import { WordLists } from './components/WordLists';
+import { IdiomList } from './components/IdiomList';
+import { Statistics } from './components/Statistics';
 import { LoadingSpinner } from './components/LoadingSpinner';
 import { fetchIdioms } from './services/api';
 import { Idiom, AppMode } from './types';
@@ -46,31 +49,52 @@ function App() {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center p-6">
-          <h2 className="text-xl font-semibold text-gray-900 mb-2">No Idioms Available</h2>
-          <p className="text-gray-600">Please check your connection and try again.</p>
+          <h2 className="text-xl font-semibold text-gray-900 mb-2">英熟語データが利用できません</h2>
+          <p className="text-gray-600">接続を確認して、もう一度お試しください。</p>
         </div>
       </div>
     );
   }
+
+  const renderContent = () => {
+    switch (currentMode) {
+      case 'study':
+        return (
+          <StudyMode 
+            idioms={idioms}
+            currentIndex={currentIndex}
+            onNext={handleNext}
+          />
+        );
+      case 'quiz':
+        return (
+          <QuizMode 
+            idioms={idioms}
+            currentIndex={currentIndex}
+            onNext={handleNext}
+          />
+        );
+      case 'lists':
+        return <IdiomList idioms={idioms} />;
+      case 'statistics':
+        return <Statistics idioms={idioms} />;
+      default:
+        return (
+          <StudyMode 
+            idioms={idioms}
+            currentIndex={currentIndex}
+            onNext={handleNext}
+          />
+        );
+    }
+  };
 
   return (
     <div className="min-h-screen bg-gray-50">
       <Header currentMode={currentMode} onModeChange={handleModeChange} />
       
       <main className="pb-8">
-        {currentMode === 'study' ? (
-          <StudyMode 
-            idioms={idioms}
-            currentIndex={currentIndex}
-            onNext={handleNext}
-          />
-        ) : (
-          <QuizMode 
-            idioms={idioms}
-            currentIndex={currentIndex}
-            onNext={handleNext}
-          />
-        )}
+        {renderContent()}
       </main>
     </div>
   );

@@ -1,57 +1,137 @@
-# Idiom Master
+# 英熟語マスター300
 
-A simple web application for learning idioms, built with React, TypeScript, and Tailwind CSS.
+英熟語の暗記とテストを効率的に行えるWebアプリケーションです。
 
-## Features
+## 🎯 機能
 
-*   **Study Mode:** Browse through a list of idioms with their meanings and example sentences.
-*   **Quiz Mode:** Test your knowledge with a multiple-choice quiz.
+### 暗記モード（Study Mode）
+- 300語の英熟語を1つずつ表示
+- 「意味を表示」ボタンで意味を確認
+- 「覚えた！」「まだ練習が必要」ボタンで学習状況を記録
+- localStorageに学習記録を保存
 
-## Tech Stack
+### テストモード（Quiz Mode）
+- 4択クイズ形式で英熟語の意味をテスト
+- **範囲指定機能**: No.1-300の任意の範囲でテスト実施可能
+- 正解・不正解の即座フィードバック
+- 学習記録を自動保存
 
-*   [Vite](https://vitejs.dev/)
-*   [React](https://reactjs.org/)
-*   [TypeScript](https://www.typescriptlang.org/)
-*   [Tailwind CSS](https://tailwindcss.com/)
+### 単語リスト管理（Word Lists）
+- 覚えた単語と覚えていない単語の分類管理
+- 単語の学習状況を手動で変更可能
+- 覚えていない単語の再学習機能
 
-## Getting Started
+### 統計機能（Statistics）
+- 学習進捗の詳細な統計表示
+- 覚えた単語数、正解率などの指標
+- **CSVエクスポート機能**: 学習統計をCSVファイルでダウンロード
+- **データリセット機能**: 全ての学習データをクリア
 
-### Prerequisites
+## 🚀 使用方法
 
-*   [Node.js](https://nodejs.org/) (v18 or later)
-*   [npm](https://www.npmjs.com/)
+### 基本的な学習フロー
 
-### Installation
+#### 1. 暗記モード
+1. **暗記モード**をクリック
+2. 熟語が表示されたら**意味を表示**ボタンをクリック
+3. 理解度に応じて**覚えた！**または**まだ練習が必要**をクリック
+4. 自動的に次の熟語に進む
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/idiom-master.git
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd idiom-master
-    ```
-3.  Install the dependencies:
-    ```bash
-    npm install
-    ```
+#### 2. テストモード
+1. **テストモード**をクリック
+2. **範囲設定**ボタンでテスト範囲を設定（例：No.1-50）
+3. 4択から正解を選択
+4. 結果表示後、自動的に次の問題に進む
 
-### Running the Application
+#### 3. 単語リスト管理
+1. **単語リスト**をクリック
+2. **覚えた単語**または**覚えてない単語**を選択
+3. 覚えていない単語リストで再分類が可能
 
-To start the development server, run the following command:
+#### 4. 学習統計の確認
+1. **統計**をクリック
+2. 全300語の学習状況を一覧表示
+3. 必要に応じて**統計をエクスポート**でCSVダウンロード
+
+### 高度な機能
+
+#### テスト範囲の設定
+- No.1-300の任意の範囲を指定可能
+- 例：No.50-150、No.200-300など
+- 設定した範囲内でランダムに出題
+
+#### 統計データの活用
+- **覚えた回数**: 暗記モードでの学習回数
+- **テスト正解/不正解**: クイズモードでの成績
+- **正解率**: テスト成績の割合
+- **状態**: 覚えた/覚えてない/未分類
+
+## 🛠 技術スタック
+
+- **フロントエンド**: React + TypeScript
+- **スタイリング**: Tailwind CSS
+- **アイコン**: Lucide React
+- **データ保存**: localStorage
+
+## 📦 インストール・実行
 
 ```bash
+# 依存関係をインストール
+npm install
+
+# 開発サーバーを起動
 npm run dev
-```
 
-This will start the application on `http://localhost:5173`.
-
-## Building for Production
-
-To create a production build, run the following command:
-
-```bash
+# ビルド
 npm run build
 ```
 
-The production-ready files will be located in the `dist` directory.
+## 📁 プロジェクト構造
+
+```
+src/
+├── components/          # Reactコンポーネント
+│   ├── Header.tsx      # ヘッダー（モード切り替え）
+│   ├── StudyMode.tsx   # 暗記モード
+│   ├── QuizMode.tsx    # テストモード（範囲指定機能付き）
+│   ├── WordLists.tsx   # 単語リスト管理
+│   ├── Statistics.tsx  # 統計機能
+│   └── LoadingSpinner.tsx
+├── services/           # API・データ処理
+│   └── api.ts         # 統計・エクスポート機能
+├── types/              # TypeScript型定義
+│   └── index.ts
+└── App.tsx            # メインアプリケーション
+
+public/
+└── idioms_data.json   # 300語の英熟語データ
+```
+
+## 🎨 特徴
+
+- **レスポンシブデザイン**: スマートフォン・PC対応
+- **日本語UI**: 完全日本語対応
+- **学習記録**: localStorageで学習進捗を保存
+- **範囲指定テスト**: 任意の範囲でテスト実施
+- **統計管理**: 詳細な学習統計とエクスポート機能
+- **直感的操作**: シンプルで使いやすいインターフェース
+
+## 📊 データ管理
+
+### エクスポート機能
+- CSV形式で学習統計をダウンロード
+- ファイル名：`idiom_stats.csv`
+- 含まれる情報：No., 熟語, 意味, 覚えた回数, テスト正解, テスト不正解, 正解率, 状態
+
+### リセット機能
+- 全ての学習統計をクリア
+- 覚えた/覚えていない分類もリセット
+- 確認ダイアログあり（誤操作防止）
+
+## 🤝 貢献
+
+プルリクエストやイシューの報告を歓迎します！
+
+## 📄 ライセンス
+
+MIT License
