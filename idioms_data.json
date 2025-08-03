@@ -6,1497 +6,1497 @@
   },
   {
     "id": 2,
-    "phrase": "break the ice",
-    "meaning": "会話を始める、緊張をほぐす"
+    "phrase": "refer to ～",
+    "meaning": "①～に言及する ②～を参照する、～に問い合わせる"
   },
   {
     "id": 3,
-    "phrase": "hit the books",
-    "meaning": "一生懸命勉強する"
+    "phrase": "contribute to ～",
+    "meaning": "～の一因となる、～に貢献する、～に寄付［寄稿］する"
   },
   {
     "id": 4,
-    "phrase": "piece of cake",
-    "meaning": "とても簡単なこと"
+    "phrase": "amount to ～",
+    "meaning": "総計～になる"
   },
   {
     "id": 5,
-    "phrase": "cost an arm and a leg",
-    "meaning": "非常に高価である"
+    "phrase": "depend on/upon ～",
+    "meaning": "～に頼る、～しだいである"
   },
   {
     "id": 6,
-    "phrase": "under the weather",
-    "meaning": "体調が悪い、気分が優れない"
-  },
-  {
-    "id": 7,
-    "phrase": "spill the beans",
-    "meaning": "秘密を漏らす"
-  },
-  {
-    "id": 8,
-    "phrase": "bite the bullet",
-    "meaning": "困難な状況に勇敢に立ち向かう"
-  },
-  {
-    "id": 9,
-    "phrase": "break a leg",
-    "meaning": "頑張って（特に公演前に使う）"
-  },
-  {
-    "id": 10,
-    "phrase": "call it a day",
-    "meaning": "その日の仕事を終える"
-  },
-  {
-    "id": 11,
-    "phrase": "get cold feet",
-    "meaning": "何かについて緊張したり躊躇したりする"
-  },
-  {
-    "id": 12,
-    "phrase": "pull someone's leg",
-    "meaning": "人をからかう、冗談を言う"
-  },
-  {
-    "id": 13,
-    "phrase": "let the cat out of the bag",
-    "meaning": "秘密を漏らす"
-  },
-  {
-    "id": 14,
-    "phrase": "hit the nail on the head",
-    "meaning": "核心を突く、的確に言い当てる"
-  },
-  {
-    "id": 15,
-    "phrase": "burn the midnight oil",
-    "meaning": "深夜まで勉強や仕事をする"
-  },
-  {
-    "id": 16,
-    "phrase": "take it with a grain of salt",
-    "meaning": "話を鵜呑みにしない、疑って聞く"
-  },
-  {
-    "id": 17,
-    "phrase": "jump on the bandwagon",
-    "meaning": "流行に乗る、時流に従う"
-  },
-  {
-    "id": 18,
-    "phrase": "miss the boat",
-    "meaning": "機会を逃す"
-  },
-  {
-    "id": 19,
-    "phrase": "get out of hand",
-    "meaning": "制御不能になる、手に負えなくなる"
-  },
-  {
-    "id": 20,
-    "phrase": "keep an eye on",
-    "meaning": "～に注意を払う、監視する"
-  },
-  {
-    "id": 21,
-    "phrase": "make ends meet",
-    "meaning": "収支を合わせる、生活をやりくりする"
-  },
-  {
-    "id": 22,
-    "phrase": "put up with",
-    "meaning": "～を我慢する、耐える"
-  },
-  {
-    "id": 23,
-    "phrase": "look down on",
-    "meaning": "～を見下す、軽蔑する"
-  },
-  {
-    "id": 24,
-    "phrase": "run out of",
-    "meaning": "～を使い果たす、～がなくなる"
-  },
-  {
-    "id": 25,
-    "phrase": "get rid of",
-    "meaning": "～を処分する、取り除く"
-  },
-  {
-    "id": 26,
-    "phrase": "come up with",
-    "meaning": "～を思いつく、考案する"
-  },
-  {
-    "id": 27,
-    "phrase": "look up to",
-    "meaning": "～を尊敬する、あこがれる"
-  },
-  {
-    "id": 28,
-    "phrase": "get along with",
-    "meaning": "～と仲良くする、うまくやっていく"
-  },
-  {
-    "id": 29,
-    "phrase": "catch up with",
-    "meaning": "～に追いつく、～の近況を聞く"
-  },
-  {
-    "id": 30,
-    "phrase": "put off",
-    "meaning": "～を延期する、先送りする"
-  },
-  {
-    "id": 31,
-    "phrase": "turn down",
-    "meaning": "～を断る、拒否する"
-  },
-  {
-    "id": 32,
-    "phrase": "give up",
-    "meaning": "～を諦める、断念する"
-  },
-  {
-    "id": 33,
-    "phrase": "look after",
-    "meaning": "～の世話をする、面倒を見る"
-  },
-  {
-    "id": 34,
-    "phrase": "take care of",
-    "meaning": "～の世話をする、処理する"
-  },
-  {
-    "id": 35,
-    "phrase": "find out",
-    "meaning": "～を調べる、発見する"
-  },
-  {
-    "id": 36,
-    "phrase": "figure out",
-    "meaning": "～を理解する、解決する"
-  },
-  {
-    "id": 37,
-    "phrase": "point out",
-    "meaning": "～を指摘する、指し示す"
-  },
-  {
-    "id": 38,
-    "phrase": "bring up",
-    "meaning": "～を育てる、話題に出す"
-  },
-  {
-    "id": 39,
-    "phrase": "set up",
-    "meaning": "～を設立する、準備する"
-  },
-  {
-    "id": 40,
-    "phrase": "break down",
-    "meaning": "故障する、感情が崩れる"
-  },
-  {
-    "id": 41,
-    "phrase": "call off",
-    "meaning": "～を中止する、取り消す"
-  },
-  {
-    "id": 42,
-    "phrase": "check out",
-    "meaning": "調べる、チェックアウトする"
-  },
-  {
-    "id": 43,
-    "phrase": "drop off",
-    "meaning": "～を降ろす、届ける"
-  },
-  {
-    "id": 44,
-    "phrase": "fill out",
-    "meaning": "～に記入する"
-  },
-  {
-    "id": 45,
-    "phrase": "get over",
-    "meaning": "～から回復する、克服する"
-  },
-  {
-    "id": 46,
-    "phrase": "hand out",
-    "meaning": "～を配る、配布する"
-  },
-  {
-    "id": 47,
-    "phrase": "look up",
-    "meaning": "～を調べる、見上げる"
-  },
-  {
-    "id": 48,
-    "phrase": "make up",
-    "meaning": "～を作り上げる、仲直りする"
-  },
-  {
-    "id": 49,
-    "phrase": "pick up",
-    "meaning": "～を拾う、迎えに行く"
-  },
-  {
-    "id": 50,
-    "phrase": "put away",
-    "meaning": "～を片付ける、貯金する"
-  },
-  {
-    "id": 51,
-    "phrase": "run into",
-    "meaning": "～に偶然会う、衝突する"
-  },
-  {
-    "id": 52,
-    "phrase": "show up",
-    "meaning": "現れる、姿を見せる"
-  },
-  {
-    "id": 53,
-    "phrase": "take off",
-    "meaning": "離陸する、脱ぐ"
-  },
-  {
-    "id": 54,
-    "phrase": "turn up",
-    "meaning": "現れる、音量を上げる"
-  },
-  {
-    "id": 55,
-    "phrase": "wake up",
-    "meaning": "目覚める、起こす"
-  },
-  {
-    "id": 56,
-    "phrase": "work out",
-    "meaning": "運動する、解決する"
-  },
-  {
-    "id": 57,
-    "phrase": "break up",
-    "meaning": "別れる、解散する"
-  },
-  {
-    "id": 58,
-    "phrase": "catch on",
-    "meaning": "理解する、流行する"
-  },
-  {
-    "id": 59,
-    "phrase": "come across",
-    "meaning": "偶然出会う、～のように見える"
-  },
-  {
-    "id": 60,
-    "phrase": "cut down",
-    "meaning": "削減する、切り倒す"
-  },
-  {
-    "id": 61,
-    "phrase": "do without",
-    "meaning": "～なしで済ます"
-  },
-  {
-    "id": 62,
-    "phrase": "fall behind",
-    "meaning": "遅れを取る、後れを取る"
-  },
-  {
-    "id": 63,
-    "phrase": "get by",
-    "meaning": "何とかやっていく、通り過ぎる"
-  },
-  {
-    "id": 64,
-    "phrase": "go through",
-    "meaning": "～を経験する、調べる"
-  },
-  {
-    "id": 65,
-    "phrase": "hold on",
-    "meaning": "待つ、つかまる"
-  },
-  {
-    "id": 66,
-    "phrase": "keep up",
-    "meaning": "続ける、遅れないようにする"
-  },
-  {
-    "id": 67,
-    "phrase": "let down",
-    "meaning": "がっかりさせる、期待を裏切る"
-  },
-  {
-    "id": 68,
-    "phrase": "look for",
-    "meaning": "～を探す"
-  },
-  {
-    "id": 69,
-    "phrase": "pass away",
-    "meaning": "亡くなる"
-  },
-  {
-    "id": 70,
-    "phrase": "put on",
-    "meaning": "着る、装う"
-  },
-  {
-    "id": 71,
-    "phrase": "run out",
-    "meaning": "なくなる、期限が切れる"
-  },
-  {
-    "id": 72,
-    "phrase": "speak up",
-    "meaning": "大きな声で話す、意見を言う"
-  },
-  {
-    "id": 73,
-    "phrase": "take after",
-    "meaning": "～に似ている"
-  },
-  {
-    "id": 74,
-    "phrase": "think over",
-    "meaning": "～をよく考える"
-  },
-  {
-    "id": 75,
-    "phrase": "try on",
-    "meaning": "～を試着する"
-  },
-  {
-    "id": 76,
-    "phrase": "use up",
-    "meaning": "使い果たす"
-  },
-  {
-    "id": 77,
-    "phrase": "wait for",
-    "meaning": "～を待つ"
-  },
-  {
-    "id": 78,
-    "phrase": "watch out",
-    "meaning": "注意する、気をつける"
-  },
-  {
-    "id": 79,
-    "phrase": "write down",
-    "meaning": "～を書き留める"
-  },
-  {
-    "id": 80,
-    "phrase": "ask for",
-    "meaning": "～を求める、頼む"
-  },
-  {
-    "id": 81,
-    "phrase": "belong to",
-    "meaning": "～に属する、～のものである"
-  },
-  {
-    "id": 82,
-    "phrase": "care for",
-    "meaning": "～の世話をする、好む"
-  },
-  {
-    "id": 83,
-    "phrase": "depend on",
-    "meaning": "～に依存する、～次第である"
-  },
-  {
-    "id": 84,
-    "phrase": "dream of",
-    "meaning": "～を夢見る"
-  },
-  {
-    "id": 85,
-    "phrase": "feel like",
-    "meaning": "～したい気がする、～のように感じる"
-  },
-  {
-    "id": 86,
-    "phrase": "hear from",
-    "meaning": "～から連絡を受ける"
-  },
-  {
-    "id": 87,
-    "phrase": "insist on",
-    "meaning": "～を主張する、要求する"
-  },
-  {
-    "id": 88,
-    "phrase": "laugh at",
-    "meaning": "～を笑う、からかう"
-  },
-  {
-    "id": 89,
-    "phrase": "listen to",
-    "meaning": "～を聞く"
-  },
-  {
-    "id": 90,
-    "phrase": "look at",
-    "meaning": "～を見る"
-  },
-  {
-    "id": 91,
-    "phrase": "pay for",
-    "meaning": "～の代金を払う、～の報いを受ける"
-  },
-  {
-    "id": 92,
-    "phrase": "prepare for",
-    "meaning": "～の準備をする"
-  },
-  {
-    "id": 93,
-    "phrase": "search for",
-    "meaning": "～を探す"
-  },
-  {
-    "id": 94,
-    "phrase": "smile at",
-    "meaning": "～に微笑む"
-  },
-  {
-    "id": 95,
-    "phrase": "speak to",
-    "meaning": "～に話しかける"
-  },
-  {
-    "id": 96,
-    "phrase": "stare at",
-    "meaning": "～をじっと見る"
-  },
-  {
-    "id": 97,
-    "phrase": "talk about",
-    "meaning": "～について話す"
-  },
-  {
-    "id": 98,
-    "phrase": "think about",
-    "meaning": "～について考える"
-  },
-  {
-    "id": 99,
-    "phrase": "worry about",
-    "meaning": "～を心配する"
-  },
-  {
-    "id": 100,
-    "phrase": "agree with",
-    "meaning": "～に同意する、～と調和する"
-  },
-  {
-    "id": 101,
-    "phrase": "argue with",
-    "meaning": "～と議論する"
-  },
-  {
-    "id": 102,
-    "phrase": "begin with",
-    "meaning": "～から始める"
-  },
-  {
-    "id": 103,
-    "phrase": "compare with",
-    "meaning": "～と比較する"
-  },
-  {
-    "id": 104,
-    "phrase": "compete with",
-    "meaning": "～と競争する"
-  },
-  {
-    "id": 105,
-    "phrase": "connect with",
-    "meaning": "～とつながる、連絡を取る"
-  },
-  {
-    "id": 106,
-    "phrase": "deal with",
-    "meaning": "～を扱う、対処する"
-  },
-  {
-    "id": 107,
-    "phrase": "disagree with",
-    "meaning": "～に反対する"
-  },
-  {
-    "id": 108,
-    "phrase": "end with",
-    "meaning": "～で終わる"
-  },
-  {
-    "id": 109,
-    "phrase": "fight with",
-    "meaning": "～と戦う"
-  },
-  {
-    "id": 110,
-    "phrase": "help with",
-    "meaning": "～を手伝う"
-  },
-  {
-    "id": 111,
-    "phrase": "meet with",
-    "meaning": "～と会う"
-  },
-  {
-    "id": 112,
-    "phrase": "play with",
-    "meaning": "～で遊ぶ"
-  },
-  {
-    "id": 113,
-    "phrase": "share with",
-    "meaning": "～と分かち合う"
-  },
-  {
-    "id": 114,
-    "phrase": "start with",
-    "meaning": "～から始める"
-  },
-  {
-    "id": 115,
-    "phrase": "stay with",
-    "meaning": "～と一緒にいる"
-  },
-  {
-    "id": 116,
-    "phrase": "work with",
-    "meaning": "～と一緒に働く"
-  },
-  {
-    "id": 117,
-    "phrase": "add to",
-    "meaning": "～に加える"
-  },
-  {
-    "id": 118,
-    "phrase": "belong to",
-    "meaning": "～に属する"
-  },
-  {
-    "id": 119,
-    "phrase": "come to",
-    "meaning": "～に来る、～になる"
-  },
-  {
-    "id": 120,
-    "phrase": "drive to",
-    "meaning": "～まで車で行く"
-  },
-  {
-    "id": 121,
-    "phrase": "fly to",
-    "meaning": "～まで飛行機で行く"
-  },
-  {
-    "id": 122,
-    "phrase": "go to",
-    "meaning": "～に行く"
-  },
-  {
-    "id": 123,
-    "phrase": "listen to",
-    "meaning": "～を聞く"
-  },
-  {
-    "id": 124,
-    "phrase": "move to",
-    "meaning": "～に引っ越す"
-  },
-  {
-    "id": 125,
-    "phrase": "point to",
-    "meaning": "～を指し示す"
-  },
-  {
-    "id": 126,
-    "phrase": "refer to",
-    "meaning": "～を参照する、言及する"
-  },
-  {
-    "id": 127,
-    "phrase": "return to",
-    "meaning": "～に戻る"
-  },
-  {
-    "id": 128,
-    "phrase": "send to",
-    "meaning": "～に送る"
-  },
-  {
-    "id": 129,
-    "phrase": "speak to",
-    "meaning": "～に話しかける"
-  },
-  {
-    "id": 130,
-    "phrase": "talk to",
-    "meaning": "～に話しかける"
-  },
-  {
-    "id": 131,
-    "phrase": "walk to",
-    "meaning": "～まで歩いて行く"
-  },
-  {
-    "id": 132,
-    "phrase": "write to",
-    "meaning": "～に手紙を書く"
-  },
-  {
-    "id": 133,
-    "phrase": "account for",
-    "meaning": "～を説明する、～の原因となる"
-  },
-  {
-    "id": 134,
-    "phrase": "ask for",
-    "meaning": "～を求める"
-  },
-  {
-    "id": 135,
-    "phrase": "call for",
-    "meaning": "～を要求する、～が必要である"
-  },
-  {
-    "id": 136,
-    "phrase": "care for",
-    "meaning": "～の世話をする"
-  },
-  {
-    "id": 137,
-    "phrase": "fall for",
-    "meaning": "～に恋する、～に騙される"
-  },
-  {
-    "id": 138,
-    "phrase": "go for",
-    "meaning": "～を選ぶ、～を目指す"
-  },
-  {
-    "id": 139,
-    "phrase": "head for",
-    "meaning": "～に向かう"
-  },
-  {
-    "id": 140,
-    "phrase": "look for",
-    "meaning": "～を探す"
-  },
-  {
-    "id": 141,
-    "phrase": "make for",
-    "meaning": "～に向かう、～に貢献する"
-  },
-  {
-    "id": 142,
-    "phrase": "pay for",
-    "meaning": "～の代金を払う"
-  },
-  {
-    "id": 143,
-    "phrase": "prepare for",
-    "meaning": "～の準備をする"
-  },
-  {
-    "id": 144,
-    "phrase": "search for",
-    "meaning": "～を探す"
-  },
-  {
-    "id": 145,
-    "phrase": "send for",
-    "meaning": "～を呼びにやる"
-  },
-  {
-    "id": 146,
-    "phrase": "stand for",
-    "meaning": "～を表す、～に賛成する"
-  },
-  {
-    "id": 147,
-    "phrase": "wait for",
-    "meaning": "～を待つ"
-  },
-  {
-    "id": 148,
-    "phrase": "wish for",
-    "meaning": "～を願う"
-  },
-  {
-    "id": 149,
-    "phrase": "work for",
-    "meaning": "～のために働く"
-  },
-  {
-    "id": 150,
-    "phrase": "aim at",
-    "meaning": "～を狙う、～を目指す"
-  },
-  {
-    "id": 151,
-    "phrase": "arrive at",
-    "meaning": "～に到着する"
-  },
-  {
-    "id": 152,
-    "phrase": "look at",
-    "meaning": "～を見る"
-  },
-  {
-    "id": 153,
-    "phrase": "laugh at",
-    "meaning": "～を笑う"
-  },
-  {
-    "id": 154,
-    "phrase": "point at",
-    "meaning": "～を指す"
-  },
-  {
-    "id": 155,
-    "phrase": "shout at",
-    "meaning": "～に怒鳴る"
-  },
-  {
-    "id": 156,
-    "phrase": "smile at",
-    "meaning": "～に微笑む"
-  },
-  {
-    "id": 157,
-    "phrase": "stare at",
-    "meaning": "～をじっと見る"
-  },
-  {
-    "id": 158,
-    "phrase": "throw at",
-    "meaning": "～に投げる"
-  },
-  {
-    "id": 159,
-    "phrase": "wonder at",
-    "meaning": "～に驚く"
-  },
-  {
-    "id": 160,
-    "phrase": "work at",
-    "meaning": "～で働く"
-  },
-  {
-    "id": 161,
-    "phrase": "agree on",
-    "meaning": "～について合意する"
-  },
-  {
-    "id": 162,
-    "phrase": "base on",
-    "meaning": "～に基づく"
-  },
-  {
-    "id": 163,
-    "phrase": "call on",
-    "meaning": "～を訪問する、～に頼む"
-  },
-  {
-    "id": 164,
-    "phrase": "comment on",
-    "meaning": "～についてコメントする"
-  },
-  {
-    "id": 165,
-    "phrase": "concentrate on",
+    "phrase": "concentrate on ～",
     "meaning": "～に集中する"
   },
   {
-    "id": 166,
-    "phrase": "count on",
-    "meaning": "～を当てにする"
+    "id": 7,
+    "phrase": "search for ～",
+    "meaning": "～を探す［捜す］"
   },
   {
-    "id": 167,
-    "phrase": "decide on",
-    "meaning": "～を決める"
+    "id": 8,
+    "phrase": "prepare for ～",
+    "meaning": "～の準備をする、～に備える"
   },
   {
-    "id": 168,
-    "phrase": "depend on",
-    "meaning": "～に依存する"
+    "id": 9,
+    "phrase": "consist of ～",
+    "meaning": "～から成り立っている"
   },
   {
-    "id": 169,
-    "phrase": "focus on",
-    "meaning": "～に焦点を当てる"
+    "id": 10,
+    "phrase": "complain about/of ～",
+    "meaning": "（苦痛など）を訴える、～について不平を言う"
   },
   {
-    "id": 170,
-    "phrase": "insist on",
-    "meaning": "～を主張する"
+    "id": 11,
+    "phrase": "die of/from ～",
+    "meaning": "～で死ぬ"
   },
   {
-    "id": 171,
-    "phrase": "keep on",
-    "meaning": "～し続ける"
+    "id": 12,
+    "phrase": "suffer from ～",
+    "meaning": "（病気など）で苦しむ［悩む］"
   },
   {
-    "id": 172,
-    "phrase": "live on",
-    "meaning": "～で生活する"
+    "id": 13,
+    "phrase": "result from ～",
+    "meaning": "～から起こる"
   },
   {
-    "id": 173,
-    "phrase": "move on",
-    "meaning": "次に進む"
+    "id": 14,
+    "phrase": "graduate from ～",
+    "meaning": "～を卒業する"
   },
   {
-    "id": 174,
-    "phrase": "pass on",
-    "meaning": "～を伝える、～を渡す"
+    "id": 15,
+    "phrase": "differ from ～",
+    "meaning": "～と異なる"
   },
   {
-    "id": 175,
-    "phrase": "put on",
-    "meaning": "～を着る"
+    "id": 16,
+    "phrase": "recover from ～",
+    "meaning": "～から立ち直る［回復する］"
   },
   {
-    "id": 176,
-    "phrase": "rely on",
-    "meaning": "～を頼る"
+    "id": 17,
+    "phrase": "hear from ～",
+    "meaning": "～から便り［電話・伝言］がある"
   },
   {
-    "id": 177,
-    "phrase": "spend on",
-    "meaning": "～に費やす"
+    "id": 18,
+    "phrase": "believe in ～",
+    "meaning": "～の価値［存在］を信じる、～を信用する"
   },
   {
-    "id": 178,
-    "phrase": "try on",
-    "meaning": "～を試着する"
+    "id": 19,
+    "phrase": "succeed in ～",
+    "meaning": "～に成功する"
   },
   {
-    "id": 179,
-    "phrase": "turn on",
-    "meaning": "～をつける"
+    "id": 20,
+    "phrase": "major in ～",
+    "meaning": "（大学生が）～を専攻する"
   },
   {
-    "id": 180,
-    "phrase": "wait on",
-    "meaning": "～に仕える"
+    "id": 21,
+    "phrase": "abound in/with ～",
+    "meaning": "（場所が）～に富む"
   },
   {
-    "id": 181,
-    "phrase": "work on",
-    "meaning": "～に取り組む"
+    "id": 22,
+    "phrase": "care about ～",
+    "meaning": "～に気にかける、～に関心を持つ"
   },
   {
-    "id": 182,
-    "phrase": "act out",
-    "meaning": "～を演じる"
+    "id": 23,
+    "phrase": "bring about ～",
+    "meaning": "～を引き起こす"
   },
   {
-    "id": 183,
-    "phrase": "back out",
-    "meaning": "約束を取り消す"
+    "id": 24,
+    "phrase": "deal with ～",
+    "meaning": "～を扱う,処理する"
   },
   {
-    "id": 184,
-    "phrase": "break out",
-    "meaning": "発生する、脱出する"
+    "id": 25,
+    "phrase": "go through ～",
+    "meaning": "①～を通過する ②（苦しみなど）を経験する"
   },
   {
-    "id": 185,
-    "phrase": "bring out",
-    "meaning": "～を引き出す、出版する"
+    "id": 26,
+    "phrase": "give up ～",
+    "meaning": "～をあきらめる、～捨てる［やめる］"
   },
   {
-    "id": 186,
-    "phrase": "carry out",
+    "id": 27,
+    "phrase": "grow up",
+    "meaning": "大人になる、（事態などが）生じる"
+  },
+  {
+    "id": 28,
+    "phrase": "pick up ～",
+    "meaning": "～を（車などに）乗せる、～拾う"
+  },
+  {
+    "id": 29,
+    "phrase": "set up ～",
+    "meaning": "～を立てる［建てる］、～を創設する［始める］"
+  },
+  {
+    "id": 30,
+    "phrase": "wake up (～)",
+    "meaning": "目が覚める、（人）の目を覚まさせる"
+  },
+  {
+    "id": 31,
+    "phrase": "brush up (on) ～",
+    "meaning": "（語学など）をやり直して磨きをかける"
+  },
+  {
+    "id": 32,
+    "phrase": "find out ～",
+    "meaning": "（調査などの結果）を見つけ出す、（真相）を知る"
+  },
+  {
+    "id": 33,
+    "phrase": "carry out ～",
     "meaning": "～を実行する"
   },
   {
+    "id": 34,
+    "phrase": "point out ～",
+    "meaning": "～を指摘する"
+  },
+  {
+    "id": 35,
+    "phrase": "figure out (～)",
+    "meaning": "～を理解する、～を計算する、～を解く"
+  },
+  {
+    "id": 36,
+    "phrase": "turn out (～)",
+    "meaning": "①～であることが分かる、（結果的に）～になる ②～を産出する ③（催しなどに）繰り出す"
+  },
+  {
+    "id": 37,
+    "phrase": "fill out ～",
+    "meaning": "（書類など）に書き込む"
+  },
+  {
+    "id": 38,
+    "phrase": "pick out ～",
+    "meaning": "～を選ぶ"
+  },
+  {
+    "id": 39,
+    "phrase": "put on ～",
+    "meaning": "～を（身に）つける、（電気器具ガスなど）をつける"
+  },
+  {
+    "id": 40,
+    "phrase": "work on (～)",
+    "meaning": "①働き続ける ②～に取り組む、～を手がける、～に影響を与える、（薬などが）～に効く"
+  },
+  {
+    "id": 41,
+    "phrase": "try on ～",
+    "meaning": "～を試着する"
+  },
+  {
+    "id": 42,
+    "phrase": "turn on (～)",
+    "meaning": "（スイッチなど）をつける、（水・ガスなど）を出す、（明かりなどが）つく"
+  },
+  {
+    "id": 43,
+    "phrase": "turn off (～)",
+    "meaning": "（スイッチなど）を消す、（水・ガスなど）を止める、（明かりなどが）消える"
+  },
+  {
+    "id": 44,
+    "phrase": "take off (～)",
+    "meaning": "①～を脱ぐ、～を取り除く ②離陸する、（流行・売り上げなどが）急増［急伸］する ③～を休暇としてとる"
+  },
+  {
+    "id": 45,
+    "phrase": "get along",
+    "meaning": "①暮らす、（なんとか）やっていく ②仲良くやっていく、進む"
+  },
+  {
+    "id": 46,
+    "phrase": "get together (～)",
+    "meaning": "集まる、～を集める"
+  },
+  {
+    "id": 47,
+    "phrase": "calm down (～)",
+    "meaning": "～を落ち着かせる［静める］、落ち着く［静まる］"
+  },
+  {
+    "id": 48,
+    "phrase": "think over ～",
+    "meaning": "～をよく考える"
+  },
+  {
+    "id": 49,
+    "phrase": "keep doing",
+    "meaning": "…し続ける"
+  },
+  {
+    "id": 50,
+    "phrase": "take place",
+    "meaning": "催される、起こる"
+  },
+  {
+    "id": 51,
+    "phrase": "play a role/part (in ～)",
+    "meaning": "（～で）役割を演じる［果たす］"
+  },
+  {
+    "id": 52,
+    "phrase": "make sure (～)",
+    "meaning": "（～を）確かめる、確実に～をする"
+  },
+  {
+    "id": 53,
+    "phrase": "make sense",
+    "meaning": "意味をなす、道理にかなう"
+  },
+  {
+    "id": 54,
+    "phrase": "make a difference",
+    "meaning": "違いが生じる、重要である"
+  },
+  {
+    "id": 55,
+    "phrase": "make progress",
+    "meaning": "進歩する"
+  },
+  {
+    "id": 56,
+    "phrase": "make up one's mind",
+    "meaning": "決心する"
+  },
+  {
+    "id": 57,
+    "phrase": "do one's best",
+    "meaning": "最善を尽くす"
+  },
+  {
+    "id": 58,
+    "phrase": "pay attention to ～",
+    "meaning": "～に注意を払う"
+  },
+  {
+    "id": 59,
+    "phrase": "ask for ～",
+    "meaning": "～を求める"
+  },
+  {
+    "id": 60,
+    "phrase": "get rid of ～",
+    "meaning": "（厄介なもの）を取り除く"
+  },
+  {
+    "id": 61,
+    "phrase": "fall in love with ～",
+    "meaning": "（事・物）を大好きになる、（人）と恋に落ちる"
+  },
+  {
+    "id": 62,
+    "phrase": "help A with B",
+    "meaning": "AのBを手伝う、AをBで助ける"
+  },
+  {
+    "id": 63,
+    "phrase": "prefer A to B",
+    "meaning": "ＢよりＡを好む"
+  },
+  {
+    "id": 64,
+    "phrase": "turn A into B",
+    "meaning": "ＡをＢに（質的に）変える"
+  },
+  {
+    "id": 65,
+    "phrase": "prevent A from B",
+    "meaning": "AがBするのを妨げる、AをBから防ぐ"
+  },
+  {
+    "id": 66,
+    "phrase": "remind A of/about B",
+    "meaning": "AにBを思い出させる"
+  },
+  {
+    "id": 67,
+    "phrase": "regard A as B",
+    "meaning": "AをBとみなす"
+  },
+  {
+    "id": 68,
+    "phrase": "associate A with B",
+    "meaning": "ＡをＢと結びつけて考える"
+  },
+  {
+    "id": 69,
+    "phrase": "inform A of/about B",
+    "meaning": "AにBを知らせる"
+  },
+  {
+    "id": 70,
+    "phrase": "bring up ～",
+    "meaning": "①～を育てる②（問題・話題など）を持ち出す = raise"
+  },
+  {
+    "id": 71,
+    "phrase": "call off ～",
+    "meaning": "～を中止する［取り消す］ = cancel"
+  },
+  {
+    "id": 72,
+    "phrase": "carry on (～)",
+    "meaning": "（～を）続ける = happen, occur"
+  },
+  {
+    "id": 73,
+    "phrase": "come about",
+    "meaning": "起こる = continue"
+  },
+  {
+    "id": 74,
+    "phrase": "come by ～",
+    "meaning": "～を手に入れる = get, obtain"
+  },
+  {
+    "id": 75,
+    "phrase": "come up with ～",
+    "meaning": "（解決策など）を思いつく = devise, invent, conceive"
+  },
+  {
+    "id": 76,
+    "phrase": "do away with ～",
+    "meaning": "～を取り除く、～を廃止する = eliminate, abolish"
+  },
+  {
+    "id": 77,
+    "phrase": "find fault with ～",
+    "meaning": "～にけちをつける、～を非難する = criticize"
+  },
+  {
+    "id": 78,
+    "phrase": "get over",
+    "meaning": "～を克服する、（病気など）から回復する = overcome"
+  },
+  {
+    "id": 79,
+    "phrase": "hand in ～",
+    "meaning": "（手渡しで）～を提出する［届ける］ = submit"
+  },
+  {
+    "id": 80,
+    "phrase": "learn ～ by heart",
+    "meaning": "～を暗記する = memorize"
+  },
+  {
+    "id": 81,
+    "phrase": "look into ～",
+    "meaning": "～を調べる = investigate"
+  },
+  {
+    "id": 82,
+    "phrase": "look over ～",
+    "meaning": "～を（ざっと）調べる = examine"
+  },
+  {
+    "id": 83,
+    "phrase": "pass away",
+    "meaning": "死ぬ = die"
+  },
+  {
+    "id": 84,
+    "phrase": "put off ～",
+    "meaning": "～を延期する = postpone"
+  },
+  {
+    "id": 85,
+    "phrase": "put together ～",
+    "meaning": "（部品など）を組み立てる、（考えなど）をまとめる = assemble, build"
+  },
+  {
+    "id": 86,
+    "phrase": "put up with ～",
+    "meaning": "～を我慢する = tolerate, endure, stand"
+  },
+  {
+    "id": 87,
+    "phrase": "set about ～",
+    "meaning": "～を始める = begin, start"
+  },
+  {
+    "id": 88,
+    "phrase": "set in",
+    "meaning": "始まる = begin, start"
+  },
+  {
+    "id": 89,
+    "phrase": "take after ～",
+    "meaning": "～に似ている = resemble"
+  },
+  {
+    "id": 90,
+    "phrase": "prior to ～",
+    "meaning": "～より前で = before"
+  },
+  {
+    "id": 91,
+    "phrase": "agree to ～",
+    "meaning": "（提案・計画・条件など）に同意する"
+  },
+  {
+    "id": 92,
+    "phrase": "agree with ～",
+    "meaning": "（人が）（人・考えなど）に同意する、（気候・食物などが）～に合う、～に一致［適合］する"
+  },
+  {
+    "id": 93,
+    "phrase": "apply for ～",
+    "meaning": "（仕事・許可など）を申し込む［志願する］"
+  },
+  {
+    "id": 94,
+    "phrase": "apply to ～",
+    "meaning": "①～に当てはまる ②（人・場所・組織）に申し込む"
+  },
+  {
+    "id": 95,
+    "phrase": "catch up with/to ～",
+    "meaning": "（遅れた状態から）～に追いつく"
+  },
+  {
+    "id": 96,
+    "phrase": "keep up with ～",
+    "meaning": "～に遅れずについていく"
+  },
+  {
+    "id": 97,
+    "phrase": "leave ～ alone",
+    "meaning": "～をそのままにしておく、～に干渉しない"
+  },
+  {
+    "id": 98,
+    "phrase": "let alone ～",
+    "meaning": "～は言うまでもなく"
+  },
+  {
+    "id": 99,
+    "phrase": "correspond to ～",
+    "meaning": "～に一致する、～に相当する"
+  },
+  {
+    "id": 100,
+    "phrase": "correspond with ～",
+    "meaning": "～とやりとりを交わす、～と文通する"
+  },
+  {
+    "id": 101,
+    "phrase": "hit on/upon ～",
+    "meaning": "～を思いつく、～に出くわす"
+  },
+  {
+    "id": 102,
+    "phrase": "occur to ～",
+    "meaning": "ふと（人）の心に浮かぶ"
+  },
+  {
+    "id": 103,
+    "phrase": "dawn on ～",
+    "meaning": "（考えなどが）（人）にわかり始める［思い浮かぶ］"
+  },
+  {
+    "id": 104,
+    "phrase": "make the best of ～",
+    "meaning": "（不利な状況で）～を最大限に利用する［善処する］"
+  },
+  {
+    "id": 105,
+    "phrase": "make the most of ～",
+    "meaning": "～を最大限に利用する"
+  },
+  {
+    "id": 106,
+    "phrase": "lay off ～",
+    "meaning": "～を一時解雇する"
+  },
+  {
+    "id": 107,
+    "phrase": "lay out ～",
+    "meaning": "～を並べる、～を設計する"
+  },
+  {
+    "id": 108,
+    "phrase": "provide A with B",
+    "meaning": "AにBを供給する"
+  },
+  {
+    "id": 109,
+    "phrase": "supply A with B",
+    "meaning": "AにBを供給する"
+  },
+  {
+    "id": 110,
+    "phrase": "mistake A for B",
+    "meaning": "AをBと間違える"
+  },
+  {
+    "id": 111,
+    "phrase": "take A for B",
+    "meaning": "AをBだと（誤って）思う［間違える］"
+  },
+  {
+    "id": 112,
+    "phrase": "look on/upon A as B",
+    "meaning": "AをBと見なす"
+  },
+  {
+    "id": 113,
+    "phrase": "think of A as B",
+    "meaning": "AをBと見なす"
+  },
+  {
+    "id": 114,
+    "phrase": "distinguish A from B",
+    "meaning": "AをBと区別する"
+  },
+  {
+    "id": 115,
+    "phrase": "tell A from B",
+    "meaning": "AとBを区別する"
+  },
+  {
+    "id": 116,
+    "phrase": "participate in ～",
+    "meaning": "～に参加する"
+  },
+  {
+    "id": 117,
+    "phrase": "take part in ～",
+    "meaning": "～に参加する"
+  },
+  {
+    "id": 118,
+    "phrase": "compensate for ～",
+    "meaning": "～の埋め合わせをする、～を補償する"
+  },
+  {
+    "id": 119,
+    "phrase": "make up (～)",
+    "meaning": "①～を構成する、～を作り上げる ②仲直りをする ③～の埋め合わせをする"
+  },
+  {
+    "id": 120,
+    "phrase": "care for ～",
+    "meaning": "①～の世話をする ②～を好む、～を望む"
+  },
+  {
+    "id": 121,
+    "phrase": "look after ～",
+    "meaning": "～の世話をする"
+  },
+  {
+    "id": 122,
+    "phrase": "show up (～)",
+    "meaning": "①（予定の所に）現れる ②目立つ、～を目立たせる"
+  },
+  {
+    "id": 123,
+    "phrase": "turn up (～)",
+    "meaning": "①現れる、起こる ②（ガス・音量など）を大きくする、～を探し出す"
+  },
+  {
+    "id": 124,
+    "phrase": "consist in ～",
+    "meaning": "～にある"
+  },
+  {
+    "id": 125,
+    "phrase": "lie in ～",
+    "meaning": "～にある"
+  },
+  {
+    "id": 126,
+    "phrase": "give in (～)",
+    "meaning": "①屈服する ②～を提出する"
+  },
+  {
+    "id": 127,
+    "phrase": "give way (to ～)",
+    "meaning": "（～に）屈服する、（～に）道を譲る"
+  },
+  {
+    "id": 128,
+    "phrase": "stand out",
+    "meaning": "際立つ、目立つ"
+  },
+  {
+    "id": 129,
+    "phrase": "stick out",
+    "meaning": "突き出る、目立つ"
+  },
+  {
+    "id": 130,
+    "phrase": "cling to ～",
+    "meaning": "～にくっつく、～に固執［執着］する"
+  },
+  {
+    "id": 131,
+    "phrase": "stick to ～",
+    "meaning": "（主義・決定など）を堅持する、～にくっつく"
+  },
+  {
+    "id": 132,
+    "phrase": "count on/upon ～",
+    "meaning": "～に頼る、～を当てする"
+  },
+  {
+    "id": 133,
+    "phrase": "rest on/upon",
+    "meaning": "～に基づく、～に頼る"
+  },
+  {
+    "id": 134,
+    "phrase": "date back to ～",
+    "meaning": "～にさかのぼる、～に始まる"
+  },
+  {
+    "id": 135,
+    "phrase": "put aside ～",
+    "meaning": "～を蓄える、～をわきに置く、～を取っておく"
+  },
+  {
+    "id": 136,
+    "phrase": "set aside ～",
+    "meaning": "～を蓄える、～を取っておく、～をわきに置く"
+  },
+  {
+    "id": 137,
+    "phrase": "sit up",
+    "meaning": "①（寝ないで）起きている ②（寝た状態から）上半身を起こす ③きちんと座る"
+  },
+  {
+    "id": 138,
+    "phrase": "stay up",
+    "meaning": "（寝ないで）起きている"
+  },
+  {
+    "id": 139,
+    "phrase": "hold back ～",
+    "meaning": "～を制止する、（真相など）を隠す"
+  },
+  {
+    "id": 140,
+    "phrase": "keep back ～",
+    "meaning": "（真相など）を隠す、～を制止する"
+  },
+  {
+    "id": 141,
+    "phrase": "take pride in ～",
+    "meaning": "～を誇り［自慢］に思う"
+  },
+  {
+    "id": 142,
+    "phrase": "pride oneself on ～",
+    "meaning": "～を誇り［自慢］に思う"
+  },
+  {
+    "id": 143,
+    "phrase": "surrender to ～",
+    "meaning": "～に屈する"
+  },
+  {
+    "id": 144,
+    "phrase": "yield to ～",
+    "meaning": "～に屈する、～に道を譲る"
+  },
+  {
+    "id": 145,
+    "phrase": "look down on/upon ～",
+    "meaning": "～を見下す"
+  },
+  {
+    "id": 146,
+    "phrase": "look up to ～",
+    "meaning": "～を尊敬する"
+  },
+  {
+    "id": 147,
+    "phrase": "do with ～",
+    "meaning": "①（couldを伴って）～があればありがたい ②（受動態で）～をすませた、～を縁を切った ③（whatを使った疑問文・否定文で）を処理［処置］する"
+  },
+  {
+    "id": 148,
+    "phrase": "do without ～",
+    "meaning": "～なしですます"
+  },
+  {
+    "id": 149,
+    "phrase": "act on/upon ～",
+    "meaning": "①～に取り組む、～に作用する ②（命令・信念など）に従って行動する"
+  },
+  {
+    "id": 150,
+    "phrase": "break in ～",
+    "meaning": "①押し入る、口を挟む ②～を慣らす"
+  },
+  {
+    "id": 151,
+    "phrase": "break out",
+    "meaning": "①（火事・戦争などが）起こる ②（汗・吹き出物などが）出る、急にしだす"
+  },
+  {
+    "id": 152,
+    "phrase": "break up ～",
+    "meaning": "①ばらばらになる［解散する］、～をばらばらにする［解散させる］ ②（人が）別れる、（関係などが）終わる、～を終わらせる"
+  },
+  {
+    "id": 153,
+    "phrase": "call for ～",
+    "meaning": "①～を必要とする、～を求める ②（人）を誘い［迎え］に行く、（物）を取りに行く"
+  },
+  {
+    "id": 154,
+    "phrase": "call on/upon ～",
+    "meaning": "①（人）を訪問する ②～に要求する"
+  },
+  {
+    "id": 155,
+    "phrase": "come across ～",
+    "meaning": "①～を偶然見つける、～に偶然出会う ②（考えなどが）（相手に）伝わる［理解される］"
+  },
+  {
+    "id": 156,
+    "phrase": "come to ～",
+    "meaning": "①～に達する、～に来る ②（～to do）…するようになる③意識を回復する、正気に戻る"
+  },
+  {
+    "id": 157,
+    "phrase": "give out ～",
+    "meaning": "①～を配る、～を発する ②（供給物・力などが）尽きる［なくなる］"
+  },
+  {
+    "id": 158,
+    "phrase": "go by ～",
+    "meaning": "①（時などが）たつ、通り過ぎる ②～の名で通る［知られる］、～によって行動［判断］する"
+  },
+  {
+    "id": 159,
+    "phrase": "go off",
+    "meaning": "①出かける、去る、（電灯などが）消える ②（仕掛けが）作動する、（爆薬が）爆発する、（銃などが）発射される"
+  },
+  {
+    "id": 160,
+    "phrase": "go on ～",
+    "meaning": "①（状況などが）続く、（時間が）過ぎる ②（進行形で）起こる、行われる ③（旅行など）に出かける"
+  },
+  {
+    "id": 161,
+    "phrase": "go out",
+    "meaning": "①出かける②（灯火などが）消える、気絶する、死ぬ"
+  },
+  {
+    "id": 162,
+    "phrase": "go over ～",
+    "meaning": "①～に詳細に目を通す、～を調べる ②～を復習する、～を繰り返す"
+  },
+  {
+    "id": 163,
+    "phrase": "go with ～",
+    "meaning": "①～と付き合う、～と一緒に行く ②～に似合う"
+  },
+  {
+    "id": 164,
+    "phrase": "hold out ～",
+    "meaning": "①（手など）を差し出す ②（希望など）を抱かせる、持ちこたえる［耐える］"
+  },
+  {
+    "id": 165,
+    "phrase": "hold up ～",
+    "meaning": "①～を持ち上げる、～を支える、持ちこたえる ②～を遅らせる ③～に強盗に入る"
+  },
+  {
+    "id": 166,
+    "phrase": "live on ～",
+    "meaning": "①～を常食にする ②（～の収入・金額）で生活する ③生き続ける"
+  },
+  {
+    "id": 167,
+    "phrase": "look to ～",
+    "meaning": "①～の方を見る、～に気をつける ②～に頼る、～を当てにする"
+  },
+  {
+    "id": 168,
+    "phrase": "look up ～",
+    "meaning": "①（辞書などで）～を調べる ②（人）を訪ねる ③（景気などが）上向く［好転する］"
+  },
+  {
+    "id": 169,
+    "phrase": "put out ～",
+    "meaning": "①（火・明かりなど）を消す ②～を出す"
+  },
+  {
+    "id": 170,
+    "phrase": "settle down",
+    "meaning": "①定住する、落ち着く ②（腰を据えて）始める"
+  },
+  {
+    "id": 171,
+    "phrase": "stand by ～",
+    "meaning": "①傍観する、待機する ②～を支持［擁護］する、（約束など）を守る"
+  },
+  {
+    "id": 172,
+    "phrase": "stand for ～",
+    "meaning": "①～意味する、～の略である ②（否定文・疑問文で）～を許容する、を我慢する"
+  },
+  {
+    "id": 173,
+    "phrase": "take in ～",
+    "meaning": "①～を取り入れる、～を理解する ②～をだます ③～を見物をする"
+  },
+  {
+    "id": 174,
+    "phrase": "take on ～",
+    "meaning": "①～を引き受ける、～を雇う ②（様相・色・性質など）を呈する［帯びる］"
+  },
+  {
+    "id": 175,
+    "phrase": "take to ～",
+    "meaning": "（習慣的に）～を始める、～にふける"
+  },
+  {
+    "id": 176,
+    "phrase": "take up ～",
+    "meaning": "①（場所・時間）を取る、～を取り上げる ②（仕事・趣味など）を始める"
+  },
+  {
+    "id": 177,
+    "phrase": "turn down ～",
+    "meaning": "①～を却下［拒絶］する ②（音量・火力など）を小さくする"
+  },
+  {
+    "id": 178,
+    "phrase": "turn in ～",
+    "meaning": "①～を提出する ②～を引き渡す、～を返却する"
+  },
+  {
+    "id": 179,
+    "phrase": "make for ～",
+    "meaning": "①～のほうへ進む ②～に寄与する［役立つ］"
+  },
+  {
+    "id": 180,
+    "phrase": "make out ～",
+    "meaning": "①（通例canを伴い、否定文・疑問文で）～を理解する ②（通例canを伴って）～を見分ける ③（書類・小切手など）を作成する"
+  },
+  {
+    "id": 181,
+    "phrase": "meet with ～",
+    "meaning": "①～を受ける、～を経験する ②～と（約束して）会う、～と会見する"
+  },
+  {
+    "id": 182,
+    "phrase": "provide for ～",
+    "meaning": "①～を扶養する ②～に備える、（法律が）～を規定する"
+  },
+  {
+    "id": 183,
+    "phrase": "put down ～",
+    "meaning": "①～を置く ②～を鎮める［抑える］"
+  },
+  {
+    "id": 184,
+    "phrase": "run over ～",
+    "meaning": "①（車が）～をひく ②（～から）あふれる"
+  },
+  {
+    "id": 185,
+    "phrase": "set out ～",
+    "meaning": "①出発する ②～し始める ③～を並べる、～を設計する"
+  },
+  {
+    "id": 186,
+    "phrase": "be due to do",
+    "meaning": "①～のため［結果］である ②～する予定である"
+  },
+  {
     "id": 187,
-    "phrase": "check out",
-    "meaning": "調べる、チェックアウトする"
+    "phrase": "add to ～",
+    "meaning": "～を増やす"
   },
   {
     "id": 188,
-    "phrase": "come out",
-    "meaning": "現れる、出版される"
+    "phrase": "adapt to ～",
+    "meaning": "（環境など）に順応する［慣れる］"
   },
   {
     "id": 189,
-    "phrase": "cut out",
-    "meaning": "切り取る、やめる"
+    "phrase": "object to ～",
+    "meaning": "～に反対する"
   },
   {
     "id": 190,
-    "phrase": "drop out",
-    "meaning": "脱落する、退学する"
+    "phrase": "admit to ～",
+    "meaning": "～を認める［告白する］"
   },
   {
     "id": 191,
-    "phrase": "eat out",
-    "meaning": "外食する"
+    "phrase": "conform to/with ～",
+    "meaning": "～と一致する、～に従う［合わせる］"
   },
   {
     "id": 192,
-    "phrase": "figure out",
-    "meaning": "理解する、解決する"
+    "phrase": "resort to ～",
+    "meaning": "（手段など）に訴える［頼る］"
   },
   {
     "id": 193,
-    "phrase": "find out",
-    "meaning": "調べる、発見する"
+    "phrase": "keep to ～",
+    "meaning": "～に沿って進む、～から離れない、～に従う"
   },
   {
     "id": 194,
-    "phrase": "get out",
-    "meaning": "出る、逃げる"
+    "phrase": "get to ～",
+    "meaning": "①～に到着する ②～できる、～するようになる"
   },
   {
     "id": 195,
-    "phrase": "give out",
-    "meaning": "配る、尽きる"
+    "phrase": "adhere to ～",
+    "meaning": "（主義・規則など）に忠実に従う、～にくっつく"
   },
   {
     "id": 196,
-    "phrase": "go out",
-    "meaning": "外出する、消える"
+    "phrase": "reflect on/upon ～",
+    "meaning": "～を熟考［反省］する"
   },
   {
     "id": 197,
-    "phrase": "hand out",
-    "meaning": "配る"
+    "phrase": "decide on/upon ～",
+    "meaning": "～を（どれにするか）決める、（複数の選択肢から）～に決める"
   },
   {
     "id": 198,
-    "phrase": "hold out",
-    "meaning": "持ちこたえる、差し出す"
+    "phrase": "fall on/upon ～",
+    "meaning": "（責任・仕事などが）～に降りかかる、（休日などが）～に当たる"
   },
   {
     "id": 199,
-    "phrase": "keep out",
-    "meaning": "入らせない"
+    "phrase": "feed on ～",
+    "meaning": "～を常食［餌］にする"
   },
   {
     "id": 200,
-    "phrase": "lay out",
-    "meaning": "配置する、設計する"
+    "phrase": "run into ～",
+    "meaning": "～に偶然出会う、～を偶然見つける、～にぶつかる"
   },
   {
     "id": 201,
-    "phrase": "leave out",
-    "meaning": "除外する"
+    "phrase": "break into ～",
+    "meaning": "①～に侵入する②急に～をしだす"
   },
   {
     "id": 202,
-    "phrase": "look out",
-    "meaning": "注意する"
+    "phrase": "enter into ～",
+    "meaning": "（契約など）を取り結ぶ、（議論など）を始める"
   },
   {
     "id": 203,
-    "phrase": "make out",
-    "meaning": "理解する、見分ける"
+    "phrase": "burst into ～",
+    "meaning": "急に～をしだす、突然～に入る"
   },
   {
     "id": 204,
-    "phrase": "move out",
-    "meaning": "引っ越す"
+    "phrase": "dispose of ～",
+    "meaning": "～を処分する、～を平らげる"
   },
   {
     "id": 205,
-    "phrase": "pass out",
-    "meaning": "気を失う、配る"
+    "phrase": "approve of ～",
+    "meaning": "～に賛成する、～を承認する"
   },
   {
     "id": 206,
-    "phrase": "point out",
-    "meaning": "指摘する"
+    "phrase": "boast of/about ～",
+    "meaning": "～を自慢する、～を誇らしげに話す"
   },
   {
     "id": 207,
-    "phrase": "pull out",
-    "meaning": "引き出す、撤退する"
+    "phrase": "become of ～",
+    "meaning": "（what, whatever を主語にして）～はどうなるか"
   },
   {
     "id": 208,
-    "phrase": "put out",
-    "meaning": "消す、出す"
+    "phrase": "derive from ～",
+    "meaning": "～に由来する、～から出ている"
   },
   {
     "id": 209,
-    "phrase": "run out",
-    "meaning": "なくなる"
+    "phrase": "aim at ～",
+    "meaning": "～を目指す、～を狙う"
   },
   {
     "id": 210,
-    "phrase": "set out",
-    "meaning": "出発する、始める"
+    "phrase": "interfere with ～",
+    "meaning": "～の邪魔をする、～を妨げる"
   },
   {
     "id": 211,
-    "phrase": "shut out",
-    "meaning": "締め出す"
+    "phrase": "part with ～",
+    "meaning": "（物）を（しぶしぶ）手放す"
   },
   {
     "id": 212,
-    "phrase": "speak out",
-    "meaning": "意見を言う"
+    "phrase": "long for ～",
+    "meaning": "～を切望する"
   },
   {
     "id": 213,
-    "phrase": "stand out",
-    "meaning": "目立つ"
+    "phrase": "send for ～",
+    "meaning": "（人）を呼ぶ、（物）を取り寄せる"
   },
   {
     "id": 214,
-    "phrase": "start out",
-    "meaning": "始める"
+    "phrase": "go about ～",
+    "meaning": "～に取りかかる、～に精を出す"
   },
   {
     "id": 215,
-    "phrase": "take out",
-    "meaning": "取り出す、連れ出す"
+    "phrase": "run across ～",
+    "meaning": "①～を偶然見つける、～に偶然で会う ②～を走って横切る"
   },
   {
     "id": 216,
-    "phrase": "throw out",
-    "meaning": "捨てる、追い出す"
+    "phrase": "end up",
+    "meaning": "最後には～になる"
   },
   {
     "id": 217,
-    "phrase": "turn out",
-    "meaning": "判明する、結果として～になる"
+    "phrase": "use up ～",
+    "meaning": "～を使い果たす"
   },
   {
     "id": 218,
-    "phrase": "walk out",
-    "meaning": "出て行く、ストライキする"
+    "phrase": "sum up ～",
+    "meaning": "（～を）要約する、～を合計する"
   },
   {
     "id": 219,
-    "phrase": "watch out",
-    "meaning": "注意する"
+    "phrase": "clear up ～",
+    "meaning": "（天候が）晴れる、（疑念・不明点など）を明らかにする"
   },
   {
     "id": 220,
-    "phrase": "wear out",
-    "meaning": "使い古す、疲れさせる"
+    "phrase": "tie up ～",
+    "meaning": "（人）を拘束する、～を固く縛る、提携する"
   },
   {
     "id": 221,
-    "phrase": "work out",
-    "meaning": "運動する、解決する"
+    "phrase": "cheer up ～",
+    "meaning": "元気づく、～を元気づける［応援する］"
   },
   {
     "id": 222,
-    "phrase": "write out",
-    "meaning": "書き出す"
+    "phrase": "blow up ～",
+    "meaning": "爆発する、かっとなる、～を爆破する"
   },
   {
     "id": 223,
-    "phrase": "break down",
-    "meaning": "故障する、感情が崩れる"
+    "phrase": "call up ～",
+    "meaning": "（～に）電話をかける、（記憶・勇気など）を呼び起こす"
   },
   {
     "id": 224,
-    "phrase": "bring down",
-    "meaning": "下げる、倒す"
+    "phrase": "shut up ～",
+    "meaning": "話をやめる、～を散らせる"
   },
   {
     "id": 225,
-    "phrase": "calm down",
-    "meaning": "落ち着く"
+    "phrase": "step up ～",
+    "meaning": "①近づく、（壇上などに）上がる ②（量・速度など）を増す、（活動など）を促進する"
   },
   {
     "id": 226,
-    "phrase": "come down",
-    "meaning": "下りてくる、下がる"
+    "phrase": "cut down/back (on) ～",
+    "meaning": "～（の量）を減らす、～を切り詰める"
   },
   {
     "id": 227,
-    "phrase": "cut down",
-    "meaning": "削減する、切り倒す"
+    "phrase": "slow down ～",
+    "meaning": "（～の）速度を落とす、ペースが落ちる"
   },
   {
     "id": 228,
-    "phrase": "fall down",
-    "meaning": "倒れる"
+    "phrase": "break down ～",
+    "meaning": "①～を分解する、～を壊す ②故障する、取り乱す、肉体的［精神的］に参る"
   },
   {
     "id": 229,
-    "phrase": "get down",
-    "meaning": "下りる、書き留める"
+    "phrase": "hand down ～",
+    "meaning": "～を（子孫［後世］に）伝える"
   },
   {
     "id": 230,
-    "phrase": "go down",
-    "meaning": "下がる、沈む"
+    "phrase": "take down ～",
+    "meaning": "～を書き留める、（建築など）を取り壊す"
   },
   {
     "id": 231,
-    "phrase": "hand down",
-    "meaning": "伝える、引き継ぐ"
+    "phrase": "burn down ～",
+    "meaning": "～を全焼させる、（建物が）全焼する"
   },
   {
     "id": 232,
-    "phrase": "hold down",
-    "meaning": "押さえる、保つ"
+    "phrase": "come out",
+    "meaning": "現れる、ばれる、出版される"
   },
   {
     "id": 233,
-    "phrase": "keep down",
-    "meaning": "抑える、低く保つ"
+    "phrase": "run out",
+    "meaning": "使い果たす、尽きる"
   },
   {
     "id": 234,
-    "phrase": "lay down",
-    "meaning": "横たえる、制定する"
+    "phrase": "speak out/up",
+    "meaning": "はっきり［思い切って］話す"
   },
   {
     "id": 235,
-    "phrase": "let down",
-    "meaning": "がっかりさせる"
+    "phrase": "drop out",
+    "meaning": "脱落する、中途退学する"
   },
   {
     "id": 236,
-    "phrase": "look down",
-    "meaning": "下を見る、見下す"
+    "phrase": "sort out ～",
+    "meaning": "～を整理する、～を処理する"
   },
   {
     "id": 237,
-    "phrase": "pass down",
-    "meaning": "伝える、引き継ぐ"
+    "phrase": "wear out ～",
+    "meaning": "～をすり減らす［疲れ果てさせる］、すり減らす"
   },
   {
     "id": 238,
-    "phrase": "pull down",
-    "meaning": "引き下げる、取り壊す"
+    "phrase": "roll out ～",
+    "meaning": "（新製品）を製造［発売］する、～を転がして出す、転がり出る"
   },
   {
     "id": 239,
-    "phrase": "put down",
-    "meaning": "置く、書き留める"
+    "phrase": "iron out ～",
+    "meaning": "（問題など）を解決［調節する］"
   },
   {
     "id": 240,
-    "phrase": "run down",
-    "meaning": "追いかける、疲れさせる"
+    "phrase": "set off ～",
+    "meaning": "出発する、～を引き起こす"
   },
   {
     "id": 241,
-    "phrase": "set down",
-    "meaning": "置く、書き留める"
+    "phrase": "show off ～",
+    "meaning": "（～を）見せびらかす"
   },
   {
     "id": 242,
-    "phrase": "settle down",
-    "meaning": "落ち着く、定住する"
+    "phrase": "keep off ～",
+    "meaning": "～を近づけない、～に近づかない、～を慎む"
   },
   {
     "id": 243,
-    "phrase": "shut down",
-    "meaning": "閉鎖する、停止する"
+    "phrase": "give off ～",
+    "meaning": "（光・音・においなど）を発する"
   },
   {
     "id": 244,
-    "phrase": "sit down",
-    "meaning": "座る"
+    "phrase": "break off ～",
+    "meaning": "（～を）急にやめる、～を切り離す"
   },
   {
     "id": 245,
-    "phrase": "slow down",
-    "meaning": "速度を落とす"
+    "phrase": "take over ～",
+    "meaning": "（～を）引き継ぐ、～を支配する"
   },
   {
     "id": 246,
-    "phrase": "take down",
-    "meaning": "書き留める、取り壊す"
+    "phrase": "put in ～",
+    "meaning": "①（物・言葉など）を差し入れる［加える］、（設備など）を取り付ける ②（労力・時間・金など）を注ぎ込む［投入する］"
   },
   {
     "id": 247,
-    "phrase": "turn down",
-    "meaning": "断る、音量を下げる"
+    "phrase": "drop in",
+    "meaning": "（口調で）ちょっと立ち寄る"
   },
   {
     "id": 248,
-    "phrase": "walk down",
-    "meaning": "下って行く"
+    "phrase": "cut in",
+    "meaning": "（人・車が）割り込む"
   },
   {
     "id": 249,
-    "phrase": "write down",
-    "meaning": "書き留める"
+    "phrase": "pass on ～",
+    "meaning": "（物・情報など）を次に回す［伝える］"
   },
   {
     "id": 250,
-    "phrase": "break up",
-    "meaning": "別れる、解散する"
+    "phrase": "give away ～",
+    "meaning": "（秘密など）を漏らす、～をただでやる、～を配る"
   },
   {
     "id": 251,
-    "phrase": "build up",
-    "meaning": "築く、蓄積する"
+    "phrase": "adjust (A) to B",
+    "meaning": "（Aを）Bに合わせて調節する"
   },
   {
     "id": 252,
-    "phrase": "catch up",
-    "meaning": "追いつく"
+    "phrase": "compare A with/to B",
+    "meaning": "AとBを比較する、AをBにたとえる"
   },
   {
     "id": 253,
-    "phrase": "clean up",
-    "meaning": "片付ける"
+    "phrase": "expose A to B",
+    "meaning": "AをBにさらす"
   },
   {
     "id": 254,
-    "phrase": "come up",
-    "meaning": "上がってくる、発生する"
+    "phrase": "leave A (up) to B",
+    "meaning": "AをBに任せる、AをBに残す"
   },
   {
     "id": 255,
-    "phrase": "cut up",
-    "meaning": "切り刻む"
+    "phrase": "attach A to B",
+    "meaning": "AをBに取りつける［付与する］"
   },
   {
     "id": 256,
-    "phrase": "do up",
-    "meaning": "結ぶ、修理する"
+    "phrase": "attribute A to B",
+    "meaning": "AをBのせい［結果］と考える"
   },
   {
     "id": 257,
-    "phrase": "dress up",
-    "meaning": "着飾る"
+    "phrase": "owe A to B",
+    "meaning": "A（恩・義務など）をBに負っている、A（金）をBに借りている"
   },
   {
     "id": 258,
-    "phrase": "eat up",
-    "meaning": "食べ尽くす"
+    "phrase": "confine A to B",
+    "meaning": "AをBに限定する、AをBに閉じ込める"
   },
   {
     "id": 259,
-    "phrase": "end up",
-    "meaning": "結局～になる"
+    "phrase": "liken A to B",
+    "meaning": "AをBにたとえる"
   },
   {
     "id": 260,
-    "phrase": "fill up",
-    "meaning": "満たす"
+    "phrase": "keep A from B",
+    "meaning": "AにBをさせない、AをBから守る"
   },
   {
     "id": 261,
-    "phrase": "get up",
-    "meaning": "起きる、立ち上がる"
+    "phrase": "discourage A from B",
+    "meaning": "A（人）にBを思いとどまらせる"
   },
   {
     "id": 262,
-    "phrase": "give up",
-    "meaning": "諦める"
+    "phrase": "forbid A from B",
+    "meaning": "A（人）にBを禁止する"
   },
   {
     "id": 263,
-    "phrase": "grow up",
-    "meaning": "成長する"
+    "phrase": "prohibit A from B",
+    "meaning": "A（人）にBを禁止する"
   },
   {
     "id": 264,
-    "phrase": "hang up",
-    "meaning": "電話を切る、掛ける"
+    "phrase": "order A from B",
+    "meaning": "BにAを注文する"
   },
   {
     "id": 265,
-    "phrase": "hold up",
-    "meaning": "持ち上げる、遅らせる"
+    "phrase": "substitute A for B",
+    "meaning": "Bの代わりにAを使う"
   },
   {
     "id": 266,
-    "phrase": "keep up",
-    "meaning": "続ける、遅れないようにする"
+    "phrase": "exchange A for B",
+    "meaning": "AをBと交換する"
   },
   {
     "id": 267,
-    "phrase": "look up",
-    "meaning": "調べる、見上げる"
+    "phrase": "blame A for B",
+    "meaning": "BのことでAを非難する、BをAのせいにする"
   },
   {
     "id": 268,
-    "phrase": "make up",
-    "meaning": "作り上げる、仲直りする"
+    "phrase": "punish A for B",
+    "meaning": "BのことでAを罰する"
   },
   {
     "id": 269,
-    "phrase": "mix up",
-    "meaning": "混ぜる、混同する"
+    "phrase": "forgive A for B",
+    "meaning": "BのことでAを許す"
   },
   {
     "id": 270,
-    "phrase": "open up",
-    "meaning": "開く、心を開く"
+    "phrase": "deprive A of B",
+    "meaning": "AからBを奪う"
   },
   {
     "id": 271,
-    "phrase": "pick up",
-    "meaning": "拾う、迎えに行く"
+    "phrase": "rob A of B",
+    "meaning": "（暴力・脅迫などで）AからBを奪う"
   },
   {
     "id": 272,
-    "phrase": "put up",
-    "meaning": "建てる、上げる"
+    "phrase": "cure A of B",
+    "meaning": "AのBを治す、A（人）のB（悪癖など）を取り除く"
   },
   {
     "id": 273,
-    "phrase": "set up",
-    "meaning": "設立する、準備する"
+    "phrase": "accuse A of B",
+    "meaning": "BのことでAを非難［告訴］する"
   },
   {
     "id": 274,
-    "phrase": "show up",
-    "meaning": "現れる"
+    "phrase": "suspect A of B",
+    "meaning": "BについてAを疑う"
   },
   {
     "id": 275,
-    "phrase": "shut up",
-    "meaning": "黙る"
+    "phrase": "assure A of B",
+    "meaning": "A（人）にB（物・事）を請け合う［保証する］"
   },
   {
     "id": 276,
-    "phrase": "sign up",
-    "meaning": "登録する"
+    "phrase": "transform A into/to B",
+    "meaning": "AをBに変える［変質させる］"
   },
   {
     "id": 277,
-    "phrase": "sit up",
-    "meaning": "起き上がる"
+    "phrase": "talk A into B",
+    "meaning": "A（人）を説得してBをさせる"
   },
   {
     "id": 278,
-    "phrase": "speed up",
-    "meaning": "速度を上げる"
+    "phrase": "present A with B",
+    "meaning": "AにBを贈る［与える］"
   },
   {
     "id": 279,
-    "phrase": "stand up",
-    "meaning": "立ち上がる"
+    "phrase": "diagnose A as B",
+    "meaning": "AをBと診断する"
   },
   {
     "id": 280,
-    "phrase": "start up",
-    "meaning": "始動する"
+    "phrase": "strike A as B",
+    "meaning": "A（人）にBの印象を与える"
   },
   {
     "id": 281,
-    "phrase": "stay up",
-    "meaning": "起きている"
+    "phrase": "congratulate A on/for B",
+    "meaning": "BのことでAを祝う"
   },
   {
     "id": 282,
-    "phrase": "take up",
-    "meaning": "始める、占める"
+    "phrase": "name A after B",
+    "meaning": "AをBにちなんで名づける"
   },
   {
     "id": 283,
-    "phrase": "turn up",
-    "meaning": "現れる、音量を上げる"
+    "phrase": "make an effort/efforts",
+    "meaning": "努力する"
   },
   {
     "id": 284,
-    "phrase": "use up",
-    "meaning": "使い果たす"
+    "phrase": "make way",
+    "meaning": "道をあける"
   },
   {
     "id": 285,
-    "phrase": "wake up",
-    "meaning": "目覚める"
+    "phrase": "live/lead a ～ life",
+    "meaning": "［～］の生活をする"
   },
   {
     "id": 286,
-    "phrase": "warm up",
-    "meaning": "温める、準備運動する"
+    "phrase": "make/earn a/one's living",
+    "meaning": "生計を立てる"
   },
   {
     "id": 287,
-    "phrase": "wash up",
-    "meaning": "洗う"
+    "phrase": "take one's place",
+    "meaning": "①いつもの席に着く、特定の地位を占める ②～に取って代わる"
   },
   {
     "id": 288,
-    "phrase": "wind up",
-    "meaning": "終わる、巻き上げる"
+    "phrase": "take turns",
+    "meaning": "交代でする"
   },
   {
     "id": 289,
-    "phrase": "work up",
-    "meaning": "作り上げる、奮い立たせる"
+    "phrase": "take a chance/chances",
+    "meaning": "思い切ってやってみる、賭ける"
   },
   {
     "id": 290,
-    "phrase": "write up",
-    "meaning": "記録する"
+    "phrase": "take shape",
+    "meaning": "（はっきりした）形をとる"
   },
   {
     "id": 291,
-    "phrase": "act up",
-    "meaning": "調子が悪くなる、騒ぐ"
+    "phrase": "take/have a seat",
+    "meaning": "着席する"
   },
   {
     "id": 292,
-    "phrase": "add up",
-    "meaning": "合計する、意味をなす"
+    "phrase": "take a risk/risks",
+    "meaning": "（あえて）危険を冒す、賭ける"
   },
   {
     "id": 293,
-    "phrase": "back up",
-    "meaning": "後退する、支援する"
+    "phrase": "shake hands",
+    "meaning": "握手する"
   },
   {
     "id": 294,
-    "phrase": "beat up",
-    "meaning": "殴る"
+    "phrase": "change hands",
+    "meaning": "持ち主が変わる"
   },
   {
     "id": 295,
-    "phrase": "blow up",
-    "meaning": "爆発する、拡大する"
+    "phrase": "have a say (in ～)",
+    "meaning": "（～に）発言権［発言力］を持つ"
   },
   {
     "id": 296,
-    "phrase": "break up",
-    "meaning": "別れる、解散する"
+    "phrase": "have/got one's (own) way",
+    "meaning": "思い通りにする"
   },
   {
     "id": 297,
-    "phrase": "bring up",
-    "meaning": "育てる、話題に出す"
+    "phrase": "keep/hold one's temper",
+    "meaning": "冷静さを保つ"
   },
   {
     "id": 298,
-    "phrase": "call up",
-    "meaning": "電話をかける"
+    "phrase": "take advantage of ～",
+    "meaning": "～を利用する、～につけ込む"
   },
   {
     "id": 299,
-    "phrase": "catch up",
-    "meaning": "追いつく"
+    "phrase": "take control of ～",
+    "meaning": "～を制御［管理・支配］する"
   },
   {
     "id": 300,
-    "phrase": "check up",
-    "meaning": "調べる、健康診断を受ける"
+    "phrase": "make use of ～",
+    "meaning": "～を利用する"
   }
-] 
+]
