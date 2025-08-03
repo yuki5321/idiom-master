@@ -103,7 +103,7 @@ export const IdiomList: React.FC<IdiomListProps> = ({ idioms }) => {
       <div className="bg-white rounded-xl shadow-lg p-6 mb-6">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-6">
           <div>
-            <h1 className="text-2xl font-bold text-gray-900 mb-2">単語リスト一覧</h1>
+            <h1 className="text-2xl font-bold text-gray-900 mb-2">単語リスト一覧 ✨</h1>
             <p className="text-gray-600">全{stats.total}個の英熟語を管理できます</p>
           </div>
           
