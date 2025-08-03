@@ -50,7 +50,7 @@ export const Header: React.FC<HeaderProps> = ({ currentMode, onModeChange }) => 
               }`}
             >
               <List className="w-3 h-3 inline mr-1" />
-              単語リスト
+              熟語リスト
             </button>
             <button
               onClick={() => onModeChange('statistics')}
