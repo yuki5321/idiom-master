@@ -16,6 +16,7 @@ export const StudyMode: React.FC<StudyModeProps> = ({ idioms, currentIndex, onNe
   const [studyRange, setStudyRange] = useState<QuizRange>({ start: 1, end: 300 });
   const [filteredIdioms, setFilteredIdioms] = useState<Idiom[]>(idioms);
   const [currentStudyIndex, setCurrentStudyIndex] = useState(0);
+  const [feedbackMessage, setFeedbackMessage] = useState<string | null>(null);
 
   const currentIdiom = filteredIdioms[currentStudyIndex];
 
@@ -38,15 +39,31 @@ export const StudyMode: React.FC<StudyModeProps> = ({ idioms, currentIndex, onNe
     setIsSubmitting(true);
     
     try {
-      saveLearningStatus(currentIdiom.phrase, status);
+      await saveLearningStatus(currentIdiom.phrase, status);
       
-      // Show feedback
+      // Show feedback briefly
       const message = status === 'known' ? '覚えました！👍' : 'もう一度練習しましょう 💪';
-      alert(message);
+      setFeedbackMessage(message);
+      
+      // Auto-advance to next idiom after a short delay
+      setTimeout(() => {
+        setShowMeaning(false);
+        setFeedbackMessage(null);
+        
+        if (currentStudyIndex + 1 < filteredIdioms.length) {
+          setCurrentStudyIndex(currentStudyIndex + 1);
+        } else {
+          // Study completed, go back to first item
+          setCurrentStudyIndex(0);
+          onNext();
+        }
+        
+        setIsSubmitting(false);
+      }, 1000); // 1 second delay
+      
     } catch (error) {
       console.error('Error saving learning status:', error);
       alert('エラーが発生しました。もう一度お試しください。');
-    } finally {
       setIsSubmitting(false);
     }
   };
@@ -131,6 +148,19 @@ export const StudyMode: React.FC<StudyModeProps> = ({ idioms, currentIndex, onNe
             </div>
           )}
         </div>
+
+        {/* Feedback Message */}
+        {feedbackMessage && (
+          <div className="mb-4 p-4 rounded-lg text-center font-medium animate-in slide-in-from-top-2 duration-300">
+            <div className={`${
+              feedbackMessage.includes('覚えました') 
+                ? 'bg-green-100 text-green-800 border border-green-200' 
+                : 'bg-yellow-100 text-yellow-800 border border-yellow-200'
+            }`}>
+              {feedbackMessage}
+            </div>
+          </div>
+        )}
 
         <div className="space-y-3 mb-6">
           <button
